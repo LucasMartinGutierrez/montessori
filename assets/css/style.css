@@ -21,7 +21,7 @@ main {
 .titulo {
     margin-top: 50px;
     background-color: #fff280;
-    background-image: linear-gradient(#fff280, #1c5203);
+    background-image: linear-gradient(#fff280, #ffffff, #1c5203);
     text-align: center;
     font-style: normal;
     height: 100px;
